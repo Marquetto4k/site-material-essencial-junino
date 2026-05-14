@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fef3c7"/>
+      <stop offset="1" stop-color="#fff7ed"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" rx="48" fill="url(#bg)"/>
+  <g transform="translate(190 75)">
+    <rect x="40" y="25" width="340" height="430" rx="30" fill="#7c2d12" opacity=".18"/>
+    <rect x="0" y="0" width="340" height="430" rx="30" fill="#ffffff" stroke="#c0392b" stroke-width="10"/>
+    <rect x="0" y="0" width="92" height="430" rx="30" fill="#c0392b"/>
+    <rect x="126" y="82" width="185" height="24" rx="12" fill="#16a34a"/>
+    <rect x="126" y="130" width="150" height="18" rx="9" fill="#92400e" opacity=".32"/>
+    <rect x="126" y="162" width="120" height="18" rx="9" fill="#92400e" opacity=".22"/>
+    <circle cx="210" cy="270" r="74" fill="#fde68a"/>
+    <path d="M175 288 L205 225 L238 288 Z" fill="#c0392b"/>
+    <path d="M248 245 C278 230 292 258 267 281" fill="none" stroke="#16a34a" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  <text x="80" y="535" font-family="Poppins, Arial, sans-serif" font-size="34" font-weight="800" fill="#7c2d12">E-book: Como Vender EVA</text>
+</svg>
